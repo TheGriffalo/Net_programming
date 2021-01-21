@@ -1,2 +1,2 @@
 user_says = input("Enter something: ")
-print(user_says)
+print("You entered " + user_says)
